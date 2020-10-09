@@ -26,4 +26,12 @@ Surprisingly, patients with moderate severity of illness were the ones who staye
 Patients aged from 40-80 were quite large in number and were the ones who stayed for long as compared to patients of other age groups.
 
 # Model Development and Evaluation:
-After normalization, I tried different classification approaches. The ones which gave the best results(which is still a very low accuracy score) were random classification, xgboost classifier and catboost classifier. I also tried the gridsearch cv method but the was unable to achive any significant improvement. You are welcome to make any changes to the code and further improve the results.
+After normalization, I tried different classification approaches. The ones which gave the best results(which is still a very low accuracy score) were random classification, xgboost classifier and catboost classifier. I also tried the gridsearch cv method but the was unable to achive any significant improvement.
+## RandomForest Classifier:
+It almost gave the accuracy of 42%.
+## XGBoost Classifier:
+It also gave the same accuarcy i.e. 42%. The default base estimator was used.
+## Catboost Classifier:
+It also gave 42% accuracy with the default base estimator.
+
+You are welcome to make any changes to the code and further improve the results.
