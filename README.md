@@ -1,2 +1,1 @@
-# Predicted-Length-of-Stay
-This project employs different ML classification techniques to predict the length of stay for different patients visiting the hospital using different independent features.
+![patient](https://user-images.githubusercontent.com/50501366/95575102-909b8880-0a47-11eb-87fd-74e6a0776acc.png)
